@@ -4,7 +4,7 @@
 #### "Improvisation is my high point"
 <div>
   <a href="https://github.com/StudioG9"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucascaetan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>"
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kaique Gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>"
 </div> 
  
   
