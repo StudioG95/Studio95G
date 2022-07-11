@@ -10,8 +10,9 @@
   
 ### Tecnologias que eu uso no meu dia
   
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  
+
+            <i class="devicon-adonisjs-original colori"></i>
+          
  ##
   
   <div>
