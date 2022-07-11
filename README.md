@@ -22,4 +22,4 @@
     
    ![Snake animation](https://github.com/gabrieltav/gabrieltav/blob/output/github-contribution-grid-snake.svg)
   
-  </div>o=Postman&logoColor=white"># Studio95G
+  </div>o=Postman&logoColor=white">
